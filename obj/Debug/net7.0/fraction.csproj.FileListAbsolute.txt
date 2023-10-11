@@ -1,0 +1,14 @@
+C:\Users\avtus\VSCodeProjects\fraction\bin\Debug\net7.0\fraction.exe
+C:\Users\avtus\VSCodeProjects\fraction\bin\Debug\net7.0\fraction.deps.json
+C:\Users\avtus\VSCodeProjects\fraction\bin\Debug\net7.0\fraction.runtimeconfig.json
+C:\Users\avtus\VSCodeProjects\fraction\bin\Debug\net7.0\fraction.dll
+C:\Users\avtus\VSCodeProjects\fraction\bin\Debug\net7.0\fraction.pdb
+C:\Users\avtus\VSCodeProjects\fraction\obj\Debug\net7.0\fraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avtus\VSCodeProjects\fraction\obj\Debug\net7.0\fraction.AssemblyInfoInputs.cache
+C:\Users\avtus\VSCodeProjects\fraction\obj\Debug\net7.0\fraction.AssemblyInfo.cs
+C:\Users\avtus\VSCodeProjects\fraction\obj\Debug\net7.0\fraction.csproj.CoreCompileInputs.cache
+C:\Users\avtus\VSCodeProjects\fraction\obj\Debug\net7.0\fraction.dll
+C:\Users\avtus\VSCodeProjects\fraction\obj\Debug\net7.0\refint\fraction.dll
+C:\Users\avtus\VSCodeProjects\fraction\obj\Debug\net7.0\fraction.pdb
+C:\Users\avtus\VSCodeProjects\fraction\obj\Debug\net7.0\fraction.genruntimeconfig.cache
+C:\Users\avtus\VSCodeProjects\fraction\obj\Debug\net7.0\ref\fraction.dll
